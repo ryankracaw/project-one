@@ -8,6 +8,6 @@ The motivation behind exploring this relationship is to understand how environme
 
 ## Findings
 
-Below is COVID-19 cases vs temperature in the three counties:
+Below is COVID-19 cases vs temperature in the three counties during fall 2020:
 
-    ![alt text](https://github.com/ryankracaw/project-one/blob/main/fall_outputs/cases_vs_temp.png)
+    ![alt text](fall_outputs/cases_vs_temp.png)
