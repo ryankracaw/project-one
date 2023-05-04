@@ -2,6 +2,7 @@
 
 # Adding config.py file.
 api_keys.py
+api_keys_2.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
